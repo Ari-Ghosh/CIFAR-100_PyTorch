@@ -1,0 +1,13 @@
+
+*.ipynb_checkpoints
+*.tgz
+
+data/
+practice/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
